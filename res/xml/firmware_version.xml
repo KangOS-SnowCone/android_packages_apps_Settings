@@ -44,6 +44,14 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.kangos.KangOSMaintainerPreferenceController"/>
 
+    <!-- KangOS version -->
+    <Preference
+        android:key="kangos_version"
+        android:title="@string/kangos_version"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.KangOSVersionPreferenceController"/>
+
     <!-- Security patch -->
     <Preference
         android:key="security_key"

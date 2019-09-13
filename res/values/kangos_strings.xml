@@ -24,6 +24,10 @@
     <!-- KangOS Build Date -->
     <string name="build_date">Build date</string>
 
+    <!-- KangOS version -->
+    <string name="kangos_version">KangOS version</string>
+    <string name="kangos_version_default">Unknown</string>
+
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Swipe to screenshot</string>
     <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
